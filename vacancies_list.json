@@ -1,0 +1,702 @@
+[
+    {
+        "id": "122874414",
+        "title": "Java-разработчик",
+        "salary": "от 150000 RUR",
+        "link": "https://hh.ru/vacancy/122874414",
+        "requirements": "Уверенное знание <highlighttext>Java</highlighttext> SE. Минимальная алгоритмическая подготовка. ​Высшее образование в области Computer Science. Опыт разработки сервисов и микросервисов. "
+    },
+    {
+        "id": "127403183",
+        "title": "Java разработчик",
+        "salary": "до 340000 RUR",
+        "link": "https://hh.ru/vacancy/127403183",
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 3-х лет. Уверенные знания <highlighttext>Java</highlighttext> 8-17 (Collection, Stream API), Spring: (Boot, Web..."
+    },
+    {
+        "id": "127861845",
+        "title": "Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127861845",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "id": "127885398",
+        "title": "Java-разработчик/Java Developer (Junior)",
+        "salary": "от 90000 RUR",
+        "link": "https://hh.ru/vacancy/127885398",
+        "requirements": "Развивай навыки и карьеру с поддержкой экспертов. - Знания <highlighttext>Java</highlighttext>. - Понимание процессов тестирования ПО. - Владение Git: умение работать с ветками, коммитами..."
+    },
+    {
+        "id": "127870768",
+        "title": "Java-разработчик (senior)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127870768",
+        "requirements": "...позиции <highlighttext>Java</highlighttext>-<highlighttext>разработчика</highlighttext> от 5-и лет. Опыт работы с Jmix и Vaadin для создания интерфейсов приложений. Глубокое знание <highlighttext>Java</highlighttext>..."
+    },
+    {
+        "id": "127885624",
+        "title": "Java-разработчик (проект: СБП)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127885624",
+        "requirements": "Знание <highlighttext>Java</highlighttext> (21, 25). Знание принципов ООП, шаблонов проектирования, SOLID, MVC. Spring Framework (модули Spring Boot, Spring Cloud, Spring Data..."
+    },
+    {
+        "id": "126721899",
+        "title": "Java-разработчик (Junior)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126721899",
+        "requirements": "Отлично знаешь <highlighttext>Java</highlighttext> Core . Умеешь писать модульный, структурированный, легко читаемый код. Опыт разработки на <highlighttext>Java</highlighttext>. Опыт разработки GraphQL и REST..."
+    },
+    {
+        "id": "127863931",
+        "title": "Senior Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127863931",
+        "requirements": "<highlighttext>Java</highlighttext> 8 и выше, Kotlin. Хорошие знания <highlighttext>Java</highlighttext> Core (Collections API, Stream API, Fork/Join framework, Reflection API, <highlighttext>Java</highlighttext> Generics..."
+    },
+    {
+        "id": "127861757",
+        "title": "Java-разработчик (офис)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127861757",
+        "requirements": "Знание основ работы в среде имитационного моделирования AnyLogic. Навыки программирования на языке <highlighttext>Java</highlighttext>. Навыки работы с СУБД PostgreSQL. Системное мышление. "
+    },
+    {
+        "id": "127859404",
+        "title": "Программист-разработчик Java",
+        "salary": "от 80000 RUR",
+        "link": "https://hh.ru/vacancy/127859404",
+        "requirements": "<highlighttext>JAVA</highlighttext>. Уверенное владение HTML, CSS, JS. Опыт создания Web-приложений (понимание соответствующего стека <highlighttext>Java</highlighttext>-технологий, знание протоколов TCP/IP, HTTP..."
+    },
+    {
+        "id": "127419799",
+        "title": "Java-разработчик backend Senior /TechLead",
+        "salary": "300000 - 400000 RUR",
+        "link": "https://hh.ru/vacancy/127419799",
+        "requirements": "Опыт работы с Redis, Firebase, Timescale, MongoDB, Neo4j. Опыт работы с Kafka/RabbitMQ. Git, Maven, Gradle, Docker, K..."
+    },
+    {
+        "id": "126908720",
+        "title": "Java разработчик/Java Developer (ученик)",
+        "salary": "62000 - 72000 RUR",
+        "link": "https://hh.ru/vacancy/126908720",
+        "requirements": "Законченное высшее или среднее специальное образование. Базовые знания <highlighttext>Java</highlighttext>. Знание что такое Git и как с ним работать. "
+    },
+    {
+        "id": "126873931",
+        "title": "Java разработчик pre-middle",
+        "salary": "80000 - 150000 RUR",
+        "link": "https://hh.ru/vacancy/126873931",
+        "requirements": "Активно используем нейросети, автоматизацию и аналитику. Мы разрабатываем собственные инструменты, которые повышают скорость, точность и управляемость бизнес-процессов. "
+    },
+    {
+        "id": "126649921",
+        "title": "Java разработчик с нуля (стажер)",
+        "salary": "62000 - 72000 RUR",
+        "link": "https://hh.ru/vacancy/126649921",
+        "requirements": "Понимание принципов ООП, понимание алгоритмов и структур данных, знание <highlighttext>Java</highlighttext> Core. Обязательное знание основ <highlighttext>Java</highlighttext> EE (Servlets, jsp). "
+    },
+    {
+        "id": "126721723",
+        "title": "Java-разработчик (Middle/Senior)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126721723",
+        "requirements": "Отлично знает <highlighttext>Java</highlighttext> Core. Умеет писать модульный, структурированный, легко читаемый код. Имеет опыт разработки REST или GraphQL API. "
+    },
+    {
+        "id": "126721766",
+        "title": "Java-разработчик Junior (направление AI)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126721766",
+        "requirements": "Готов учиться и развиваться по направлению AI (искусственного интеллекта) <highlighttext>Java</highlighttext>/Python. Опыт разработки на <highlighttext>Java</highlighttext>. Опыт написания Unit-тестов. "
+    },
+    {
+        "id": "127831051",
+        "title": "Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127831051",
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 5 лет. (сеньор) от 3х лет (мидл+). Глубокое знание <highlighttext>Java</highlighttext> Core, Spring Framework..."
+    },
+    {
+        "id": "127823577",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127823577",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 1 года. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "id": "127823491",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127823491",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "id": "127570214",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127570214",
+        "requirements": "Обязательный опыт: разработка и вывод сервисов в «Единое досье поднадзорной организации» Банка России (ФПС «Досье»). Технический опыт:"
+    },
+    {
+        "id": "126875166",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126875166",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "id": "125469449",
+        "title": "Разработчик Java Core",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/125469449",
+        "requirements": "Знание и навык работы с <highlighttext>Java</highlighttext> Core обязательно. Уверенное знание SQL обязательно. Умение быстро разбираться в «чужом» коде. "
+    },
+    {
+        "id": "127836106",
+        "title": "Ведущий разработчик Java",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127836106",
+        "requirements": "Имеете опыт и знание <highlighttext>Java</highlighttext> Core. Есть опыт дизайна систем. Уверенно владеете SQL."
+    },
+    {
+        "id": "127593565",
+        "title": "Java-разработчик senior",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127593565",
+        "requirements": "Мы ищем кандидата с опытом: - разработки на <highlighttext>Java</highlighttext> от 5 лет. Будет преимуществом: - опыт работы со стандартом HAPI FHIR."
+    },
+    {
+        "id": "127638547",
+        "title": "Middle Java разработчик",
+        "salary": "200000 - 250000 RUR",
+        "link": "https://hh.ru/vacancy/127638547",
+        "requirements": "Уверенное владение <highlighttext>Java</highlighttext> SE, знание принципов ООП и многопоточности. Опыт работы с Spring Framework и системами сборки Maven/Gradle. "
+    },
+    {
+        "id": "126817574",
+        "title": "Аналитик-разработчик (Java Разработчик)",
+        "salary": "от 200000 RUR",
+        "link": "https://hh.ru/vacancy/126817574",
+        "requirements": "Высшее техническое образование. Чтение технической литературы. Уверенные знания в рамках следующего технического стека: Аналитический склад ума. Самостоятельность, ориентация на результат. "
+    },
+    {
+        "id": "117454805",
+        "title": "Senior Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/117454805",
+        "requirements": "<highlighttext>Java</highlighttext> 11+, Spring Boot, Hibernate. Понимаешь принципы работы баз данных. Знаешь теорию и умеешь применять на практике шаблоны проектирования. "
+    },
+    {
+        "id": "127814257",
+        "title": "Java разработчик (Пульс)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127814257",
+        "requirements": "Уверенное знание <highlighttext>Java</highlighttext>/Kotlin. Опыт коммерческой разработки от пяти лет. Понимание микросервисной архитектуры. Опыт работы с SQL/noSQL базами данных..."
+    },
+    {
+        "id": "127812458",
+        "title": "Java backend разработчик",
+        "salary": "до 180000 RUR",
+        "link": "https://hh.ru/vacancy/127812458",
+        "requirements": "Коммерческий опыт на <highlighttext>Java</highlighttext> 11–21 от 3 лет. Отличное знание Spring Framework: Boot, Data, Security, MVC, Cloud. "
+    },
+    {
+        "id": "127810938",
+        "title": "Java разработчик/Java Developer (ученик)",
+        "salary": "62000 - 72000 RUR",
+        "link": "https://hh.ru/vacancy/127810938",
+        "requirements": "Законченное высшее или среднее специальное образование. Базовые знания <highlighttext>Java</highlighttext>. Знание что такое Git и как с ним работать. "
+    },
+    {
+        "id": "127793057",
+        "title": "Java-разработчик",
+        "salary": "250000 - 350000 RUR",
+        "link": "https://hh.ru/vacancy/127793057",
+        "requirements": "Опыт коммерческой разработки от 7 лет. Глубокое знание <highlighttext>Java</highlighttext>, желательно <highlighttext>Java</highlighttext> 21. Уверенная работа со Spring. Опыт с PostgreSQL. "
+    },
+    {
+        "id": "127789664",
+        "title": "Разработчик Java",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127789664",
+        "requirements": "Знание REST и SOAP. Опыт интеграционного взаимодействия с API (вызов из сервиса других сервисов REST/SOAP). Опыт работы с БД. "
+    },
+    {
+        "id": "127825774",
+        "title": "Fullstack-разработчик (Java/React)",
+        "salary": "от 3500 USD",
+        "link": "https://hh.ru/vacancy/127825774",
+        "requirements": "Опыт fullstack разработки от 3 лет. <highlighttext>Java</highlighttext> (ООП, SOLID, Patterns), JavaScript, React, Spring (boot, Security, Data) Spring MVC или Spring..."
+    },
+    {
+        "id": "123590786",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/123590786",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3 лет. Опыт коммерческой разработки на <highlighttext>Java</highlighttext> 11+ или Kotlin. Опыт коммерческой разработки с..."
+    },
+    {
+        "id": "127572122",
+        "title": "Java\\Kotlin Frontend-разработчик",
+        "salary": "100000 - 200000 RUR",
+        "link": "https://hh.ru/vacancy/127572122",
+        "requirements": "Опыт коммерческой разработки на Vaadin от 1 года или желание освоить. Уверенные знания <highlighttext>Java</highlighttext> или Kotlin. Понимание принципов работы Spring..."
+    },
+    {
+        "id": "126355139",
+        "title": "Java-разработчик",
+        "salary": "150000 - 180000 RUR",
+        "link": "https://hh.ru/vacancy/126355139",
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от 2 лет. Глубокое понимание принципов ООП, SOLID, REST, микросервисной архитектуры. Умение проектировать и реализовывать..."
+    },
+    {
+        "id": "127819360",
+        "title": "Junior Java разработчик (Стажер)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127819360",
+        "requirements": "Получишь практический опыт разработки и проектирования. Будешь работать над реальными проектами. Иметь базовые знания о <highlighttext>Java</highlighttext> и ООП. "
+    },
+    {
+        "id": "127819361",
+        "title": "Junior Java разработчик (Стажер)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127819361",
+        "requirements": "Получишь практический опыт разработки и проектирования. Будешь работать над реальными проектами. Иметь базовые знания о <highlighttext>Java</highlighttext> и ООП. "
+    },
+    {
+        "id": "127819362",
+        "title": "Junior Java разработчик (Стажер)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127819362",
+        "requirements": "Получишь практический опыт разработки и проектирования. Будешь работать над реальными проектами. Иметь базовые знания о <highlighttext>Java</highlighttext> и ООП. "
+    },
+    {
+        "id": "127564182",
+        "title": "Java разработчик (middle +)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127564182",
+        "requirements": "Опыт разработки и развёртывания backend-приложений на <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> 11+) - от 5 лет. Опыт работы на проектах финтех (банки..."
+    },
+    {
+        "id": "127768522",
+        "title": "Java-разработчик",
+        "salary": "240000 - 260000 RUR",
+        "link": "https://hh.ru/vacancy/127768522",
+        "requirements": "Опыт работы с <highlighttext>java</highlighttext> от 4 лет. Уверенное знание <highlighttext>Java</highlighttext> SE 8+, Spring Boot Spring Framework (Core, Web, AOP..."
+    },
+    {
+        "id": "127814359",
+        "title": "Java-разработчик middle / middle+",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127814359",
+        "requirements": "Аналогичный опыт работы от 3-х лет. Технологии программирования: <highlighttext>java</highlighttext> 17+, JPA, Spring Framework 5+, Spring Boot 3..."
+    },
+    {
+        "id": "127761323",
+        "title": "Java-разработчик",
+        "salary": "до 250000 RUR",
+        "link": "https://hh.ru/vacancy/127761323",
+        "requirements": "Понимание рабочей этики (в общении с командой и заказчиком). Hard-skills: Уверенное владение <highlighttext>Java</highlighttext> 11+. Опыт работы со Spring..."
+    },
+    {
+        "id": "127761321",
+        "title": "Java-разработчик",
+        "salary": "до 250000 RUR",
+        "link": "https://hh.ru/vacancy/127761321",
+        "requirements": "Понимание рабочей этики (в общении с командой и заказчиком). Hard-skills: Уверенное владение <highlighttext>Java</highlighttext> 11+. Опыт работы со Spring..."
+    },
+    {
+        "id": "127831776",
+        "title": "Программист Java (junior)",
+        "salary": "до 90480 RUR",
+        "link": "https://hh.ru/vacancy/127831776",
+        "requirements": "...опыт работы с технологиями – Web, <highlighttext>Java</highlighttext> EE. Владение ПК (уровень, программы): Профессиональный уровень (системный администратор/<highlighttext>программист</highlighttext>). Личностные характеристики: Ответственность, способность..."
+    },
+    {
+        "id": "127832548",
+        "title": "Старший Java-разработчик в One Cloud",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127832548",
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> от двух лет. Знание алгоритмов и основных структур данных. Будет плюсом. Опыт разработки на Go..."
+    },
+    {
+        "id": "127806077",
+        "title": "Java-разработчик (продукт Korona)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127806077",
+        "requirements": "Опыт разработки приложений на языке <highlighttext>Java</highlighttext> от 5 лет. Уверенные глубокие знания <highlighttext>Java</highlighttext> Core, Spring Framework. Знания основных алгоритмов и..."
+    },
+    {
+        "id": "127731878",
+        "title": "Senior Java разработчик",
+        "salary": "250000 - 350000 RUR",
+        "link": "https://hh.ru/vacancy/127731878",
+        "requirements": "Опыт работы с Apache POI и Apache PDFBox. Опыт работы в строительной или банковской сфере в качестве Senior <highlighttext>Java</highlighttext> <highlighttext>разработчика</highlighttext>..."
+    },
+    {
+        "id": "127791520",
+        "title": "MIddle Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127791520",
+        "requirements": "Опыт работы с использованием брокеров сообщений, например, Rabbit MQ. Опыт разработки на <highlighttext>Java</highlighttext> версии 11 и выше с применением фреймворков..."
+    },
+    {
+        "id": "127791376",
+        "title": "Java разработчик (Middle)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127791376",
+        "requirements": "Опыт в разработке backend на <highlighttext>Java</highlighttext> от 3х лет. Уверенное знание <highlighttext>Java</highlighttext> 17, 21, Spring Boot (Core, Data, Security..."
+    },
+    {
+        "id": "127774174",
+        "title": "Java-разработчик (Офис)",
+        "salary": "100000 - 140000 RUR",
+        "link": "https://hh.ru/vacancy/127774174",
+        "requirements": "<highlighttext>Java</highlighttext> 11+. Spring Boot 3.0+. Spring Data/JPA/JDBC/Security. Liquibase. Stream API. Rabbit/Kafka - знание, понимание..."
+    },
+    {
+        "id": "127511452",
+        "title": "Senior Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127511452",
+        "requirements": "3+ лет опыта. Отличное знание языка <highlighttext>Java</highlighttext> (включая JMM и вопросы потокобезопасности). Опыт реализации ПО с использованием инфраструктурных фреймворков..."
+    },
+    {
+        "id": "127769618",
+        "title": "Разработчик Java (Middle+)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127769618",
+        "requirements": "Опыт коммерческой разработки на <highlighttext>Java</highlighttext> + Spring boot от 4 лет в крупных компаниях. Опыт работы с реляционными и нереляционными..."
+    },
+    {
+        "id": "127767586",
+        "title": "Разработчик Java/Kotlin",
+        "salary": "от 150000 RUR",
+        "link": "https://hh.ru/vacancy/127767586",
+        "requirements": "Опыт работы с JNI (<highlighttext>Java</highlighttext> Native Interface) или понимание принципов взаимодействия <highlighttext>Java</highlighttext>-кода с нативными библиотеками (C/C++). "
+    },
+    {
+        "id": "127749471",
+        "title": "Java-разработчик",
+        "salary": "до 500000 RUR",
+        "link": "https://hh.ru/vacancy/127749471",
+        "requirements": "<highlighttext>Java</highlighttext> 17. Фреймворки: Spring (Core, Boot, Cloud, Web), Spring Data JPA / Spring JDBC. Базы данных: PostgreSQL, ClickHouse. Системы обмена сообщениями..."
+    },
+    {
+        "id": "127466489",
+        "title": "Разработчик ПО (Java)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127466489",
+        "requirements": "Знание <highlighttext>Java</highlighttext> и Spring boot обязательно. Будет плюсом Опыт с инструментами мониторинга: Nagios, Zabbix, Prometheus, Grafana. Работа с legacy-кодом..."
+    },
+    {
+        "id": "127125246",
+        "title": "Senior Java разработчик",
+        "salary": "до 350000 RUR",
+        "link": "https://hh.ru/vacancy/127125246",
+        "requirements": "Опыт работы с <highlighttext>Java</highlighttext>/Spring от 5 лет, включая высоконагруженные системы. Отличное знание <highlighttext>Java</highlighttext> Core, ООП и паттернов проектирования. "
+    },
+    {
+        "id": "127794056",
+        "title": "Full-stack Java разработчик",
+        "salary": "от 167000 RUR",
+        "link": "https://hh.ru/vacancy/127794056",
+        "requirements": "Высшее образование в сфере информационных технологий. Релевантный опыт работы от 3 лет. Английский язык - intermediate. Усидчивость, внимательность, ответственность, коммуникабельность."
+    },
+    {
+        "id": "127492707",
+        "title": "Java разработчик/Java developer",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127492707",
+        "requirements": "От 5 лет опыта в промышленной разработке на <highlighttext>Java</highlighttext> (<highlighttext>Java</highlighttext> 8+). Глубокое понимание Core <highlighttext>Java</highlighttext>: Collections, Concurrency, JVM, OOP..."
+    },
+    {
+        "id": "124275924",
+        "title": "Senior/Staff Java Engineer в Uzum Market (Старший Разработчик)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/124275924",
+        "requirements": "Опыт продуктовой разработки на <highlighttext>Java</highlighttext> 11+ и Spring Boot 2/3 от 3 лет. Понимание работы очередей, опыт работы..."
+    },
+    {
+        "id": "107650257",
+        "title": "Java / Kotlin разработчик (Software Engineer)",
+        "salary": "до 450000 RUR",
+        "link": "https://hh.ru/vacancy/107650257",
+        "requirements": "<highlighttext>Java</highlighttext> Spring от 3 лет. Хорошо понимать и иметь опыт интеграционных подходов между системами. Знание основ построения локальных архитектур (спроектировать..."
+    },
+    {
+        "id": "117890615",
+        "title": "Java-разработчик (Middle+/Senior)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/117890615",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3-х лет. Опыт разработки на Spring Framework, Spring Boot. Знание SQL и одной из..."
+    },
+    {
+        "id": "123306661",
+        "title": "Java-разработчик (Middle+/Senior)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/123306661",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 3-х лет. Опыт разработки на Spring Framework, Spring Boot. Знание SQL и одной из..."
+    },
+    {
+        "id": "115793463",
+        "title": "Senior java разработчик",
+        "salary": "200000 - 300000 RUR",
+        "link": "https://hh.ru/vacancy/115793463",
+        "requirements": "Уверенное знание <highlighttext>Java</highlighttext> SE (Готовы рассмотреть переход с других языков, таких как Python, NodeJs, С++, Delphi). Уверенное знание ООП или..."
+    },
+    {
+        "id": "127815551",
+        "title": "Разработчик Java (Junior+) в проект на 1C:Element",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127815551",
+        "requirements": "Основные функциональные области: Тимлид: 15+ лет коммерческого опыта <highlighttext>Java</highlighttext>. Ведущие <highlighttext>разработчики</highlighttext>: 8-15+ лет опыта <highlighttext>Java</highlighttext>. <highlighttext>Разработчики</highlighttext> уровня..."
+    },
+    {
+        "id": "127540008",
+        "title": "Junior программист (Java)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127540008",
+        "requirements": "<highlighttext>Java</highlighttext> Core: Уверенное владение синтаксисом <highlighttext>Java</highlighttext> и понимание принципов объектно-ориентированного программирования (ООП): инкапсуляция, абстракция, наследование, полиморфизм. <highlighttext>Java</highlighttext> Collections Framework..."
+    },
+    {
+        "id": "127148250",
+        "title": "Младший разработчик (fullstack: javascript, java)",
+        "salary": "60000 - 120000 RUR",
+        "link": "https://hh.ru/vacancy/127148250",
+        "requirements": "...умение находить решения сложных алгоритмических задач. Желание погрузиться в проект и учиться! Умение слышать и слушать. Стремление стать самостоятельным <highlighttext>разработчиком</highlighttext>."
+    },
+    {
+        "id": "126778500",
+        "title": "Middle+\\Senior Java разработчик (+Vaadin)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126778500",
+        "requirements": "3+ лет в области создания ПО по специальности. Знания <highlighttext>Java</highlighttext> 17, Spring Framework, Spring Boot. SQL, навыки работы с..."
+    },
+    {
+        "id": "124151338",
+        "title": "Ведущий backend-разработчик (Java, SQL)",
+        "salary": "117400 - 117400 RUR",
+        "link": "https://hh.ru/vacancy/124151338",
+        "requirements": "Опыт работы от 1 года в области backend-разработки, программирования с использованием <highlighttext>Java</highlighttext> и SQL. Будут плюсом знания в области..."
+    },
+    {
+        "id": "42636573",
+        "title": "Backend-разработчик Kotlin/Java (junior)",
+        "salary": "60000 - 80000 RUR",
+        "link": "https://hh.ru/vacancy/42636573",
+        "requirements": "Какой-либо опыт разработки на Kotlin или опыт разработки серверных приложений на <highlighttext>Java</highlighttext> и Spring Framework (Spring MVC, Spring Security..."
+    },
+    {
+        "id": "42637341",
+        "title": "Backend-разработчик Kotlin/Java (middle)",
+        "salary": "89000 - 166000 RUR",
+        "link": "https://hh.ru/vacancy/42637341",
+        "requirements": "Опыт разработки серверных приложений на Kotlin или <highlighttext>Java</highlighttext> с использованием Spring Framework (Spring MVC, Spring Security, Spring Data), Jackson, JPA..."
+    },
+    {
+        "id": "123659562",
+        "title": "Программист-разработчик Java (backend и frontend)",
+        "salary": "от 150000 RUR",
+        "link": "https://hh.ru/vacancy/123659562",
+        "requirements": "Знание фреймворков: Spring (Boot, MVC, Data), Hibernate/JPA. Опыт работы с базами данных (SQL, PostgreSQL). Понимание принципов работы PDM/PLM..."
+    },
+    {
+        "id": "124504253",
+        "title": "Старший разработчик Java в проект TeC (Черногория)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/124504253",
+        "requirements": "Отличное знание <highlighttext>Java</highlighttext>. Опыт работы с Spring Framework и Spring Boot обязателен. Хорошее знание SQL, опыт работы с Oracle будет..."
+    },
+    {
+        "id": "124504254",
+        "title": "Старший разработчик Java в проект TeC (Черногория)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/124504254",
+        "requirements": "Отличное знание <highlighttext>Java</highlighttext>. Опыт работы с Spring Framework и Spring Boot обязателен. Хорошее знание SQL, опыт работы с Oracle будет..."
+    },
+    {
+        "id": "126917194",
+        "title": "Старший Разработчик Java на проект MarkView (Черногория)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126917194",
+        "requirements": "Отличное знание <highlighttext>Java</highlighttext> (более 5 лет разработки промышленных систем). Глубокие знания SQL, знание PL/SQL будет преимуществом. Опыт работы с..."
+    },
+    {
+        "id": "127769232",
+        "title": "Java-разработчик на проект YaMonCore в MBA",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127769232",
+        "requirements": "Умеете работать с БД (PostgreSQL). Понимаете принципы микросервисной архитектуры. Тестируете код и пишете юнит-тесты. Аккуратны и внимательны к деталям. "
+    },
+    {
+        "id": "127708626",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127708626",
+        "requirements": "Понимание принципов реактивного программирования на <highlighttext>Java</highlighttext> Spring (Project Reactor). Опыт в профилировании и выявлении узких (медленных) сегментов <highlighttext>Java</highlighttext>/Spring приложений. "
+    },
+    {
+        "id": "127493138",
+        "title": "Senior Backend-разработчик (Java / Kotlin)",
+        "salary": "от 300000 RUR",
+        "link": "https://hh.ru/vacancy/127493138",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 5 лет. Уверенные знания работы с реляционными базами данных. Опыт написания модульных и интеграционных тестов. "
+    },
+    {
+        "id": "127699986",
+        "title": "Java-разработчик",
+        "salary": "130000 - 200000 RUR",
+        "link": "https://hh.ru/vacancy/127699986",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 2 лет. Знание <highlighttext>Java</highlighttext> Core (коллекции, исключения и т.д.), Spring, <highlighttext>Java</highlighttext> 11, Spring Boot..."
+    },
+    {
+        "id": "126608916",
+        "title": "Стажер Java разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126608916",
+        "requirements": "Хорошо знаешь <highlighttext>Java</highlighttext> Core (основы ООП, коллекции, исключения). Понимаешь базовые принципы работы веб-приложений и REST. Знаком с основами SQL..."
+    },
+    {
+        "id": "127742712",
+        "title": "Java разработчик/Java Developer (ученик)",
+        "salary": "62000 - 72000 RUR",
+        "link": "https://hh.ru/vacancy/127742712",
+        "requirements": "Законченное высшее или среднее специальное образование. Базовые знания <highlighttext>Java</highlighttext>. Знание что такое Git и как с ним работать. "
+    },
+    {
+        "id": "127686320",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127686320",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 1 года. Знание ООП, <highlighttext>Java</highlighttext> Core, Spring, Spring Boot, Hibernate. Базовые знания алгоритмов и структур..."
+    },
+    {
+        "id": "126972719",
+        "title": "Backend разработчик Java Spring Boot, PostgreSQL, Spring Data JDBC",
+        "salary": "150000 - 250000 RUR",
+        "link": "https://hh.ru/vacancy/126972719",
+        "requirements": "Опыт работы от 5 лет в разработке на <highlighttext>Java</highlighttext> Spring Boot, Spring Data JDBC. Профессиональное знание <highlighttext>Java</highlighttext> 17 или 21. "
+    },
+    {
+        "id": "126917596",
+        "title": "Инженер-программист Java (Офис г. Магнитогорск!)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126917596",
+        "requirements": "Высшее техническое образование. Знание языков программирования <highlighttext>Java</highlighttext>, SQL. Опыт написания SQL-запросов, PL/SQL или PL/pgSQL процедур. "
+    },
+    {
+        "id": "127664689",
+        "title": "Java-разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127664689",
+        "requirements": "Опыт коммерческой разработки с использованием фрэймворка Spring. Опыт реализации приложений в рамках микросервисной архитектуры. Знание REST API – получение данных и..."
+    },
+    {
+        "id": "127635839",
+        "title": "Java - разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127635839",
+        "requirements": "Знание <highlighttext>Java</highlighttext>, Spring framework. Знание ООП и паттернов проектирования. Опыт разработки высоконагруженных приложений и оптимизации кода. Знание SQL, (в частности..."
+    },
+    {
+        "id": "127727489",
+        "title": "Java-разработчик (Spring)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127727489",
+        "requirements": "Опыт работы с kubernetes. Опыт Trunk-based-<highlighttext>development</highlighttext>. Уверенное знание и опыт работы с данными в формате xml. "
+    },
+    {
+        "id": "127708156",
+        "title": "Java/Kotlin разработчик",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127708156",
+        "requirements": "Компетенции. - Знание классических алгоритмов и структур данных. - Опыт разработки на <highlighttext>Java</highlighttext>/Kotlin от 3 лет. - Опыт работы со Spring Boot..."
+    },
+    {
+        "id": "127702339",
+        "title": "Java-разработчик (ПИТЕР)",
+        "salary": "до 180000 RUR",
+        "link": "https://hh.ru/vacancy/127702339",
+        "requirements": "СТРОГО ОКОНЧЕННОЕ ВЫСШЕЕ ОБРАЗОВАНИЕ!!!"
+    },
+    {
+        "id": "127701633",
+        "title": "Senior Java Разработчик",
+        "salary": "от 400000 RUR",
+        "link": "https://hh.ru/vacancy/127701633",
+        "requirements": "Знаниями в области разработки высоконагруженных систем на платформе <highlighttext>Java</highlighttext>: многопоточность, коллекции, распределенные транзакции, и тд. Знаниями в компонентных <highlighttext>Java</highlighttext> frameworks..."
+    },
+    {
+        "id": "126564950",
+        "title": "Java Developer / Java-разработчик (Тераплан)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126564950",
+        "requirements": "Отличные знания <highlighttext>Java</highlighttext> (Core, Collections, Generics, JDBC, JPA, Concurrency, Stream API). Хорошие знания и опыт работы с JPA/Hibernate, Spring..."
+    },
+    {
+        "id": "126564951",
+        "title": "Java Developer / Java-разработчик (Тераплан)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126564951",
+        "requirements": "Отличные знания <highlighttext>Java</highlighttext> (Core, Collections, Generics, JDBC, JPA, Concurrency, Stream API). Хорошие знания и опыт работы с JPA/Hibernate, Spring..."
+    },
+    {
+        "id": "127606738",
+        "title": "Разработчик Java",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127606738",
+        "requirements": "Опыт разработки на <highlighttext>Java</highlighttext> от 5 лет и более. Глубокие знания <highlighttext>Java</highlighttext> SE и <highlighttext>Java</highlighttext> EE (или Jakarta EE). "
+    },
+    {
+        "id": "127698063",
+        "title": "Java разработчик/Java Developer (ученик)",
+        "salary": "62000 - 72000 RUR",
+        "link": "https://hh.ru/vacancy/127698063",
+        "requirements": "Законченное высшее или среднее специальное образование. Базовые знания <highlighttext>Java</highlighttext>. Знание что такое Git и как с ним работать. "
+    },
+    {
+        "id": "127591942",
+        "title": "Java-разработчик",
+        "salary": "до 300000 RUR",
+        "link": "https://hh.ru/vacancy/127591942",
+        "requirements": "Будет плюсом: Kotlin (готовность работать в проектах с миграцией <highlighttext>Java</highlighttext> → Kotlin). Опыт в импортозамещении (миграция с зарубежных решений). "
+    },
+    {
+        "id": "127578475",
+        "title": "Java-разработчик",
+        "salary": "до 110000 RUR",
+        "link": "https://hh.ru/vacancy/127578475",
+        "requirements": "Базовое знакомство с Git. Знание основных принципов ООП. Знание <highlighttext>Java</highlighttext>-core, в частности Concurrency, Stream API. Понимание принципов работы систем..."
+    },
+    {
+        "id": "126485872",
+        "title": "Разработчик Java",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/126485872",
+        "requirements": "Знание паттернов (Saga, CQRS, Circuit Breaker). Создание и использование Spring Boot Starters / кастомных автоконфигураций. Проектирование REST API, знание gRPC (как..."
+    },
+    {
+        "id": "126546512",
+        "title": "Java/Kotlin разработчик",
+        "salary": "115000 - 200000 RUR",
+        "link": "https://hh.ru/vacancy/126546512",
+        "requirements": "Имели опыт коммерческой разработки на <highlighttext>Java</highlighttext>. Понимали принципы микросервисной архитектуры. Имели знания Spring Framework (Boot, Data) и опыт работы с..."
+    },
+    {
+        "id": "127556260",
+        "title": "Java-разработчик",
+        "salary": "190000 - 240000 RUR",
+        "link": "https://hh.ru/vacancy/127556260",
+        "requirements": "...в сфере ИТ в роли <highlighttext>Java</highlighttext> <highlighttext>разработчика</highlighttext>. Опыт работы с системой контроля версий (Git). Знание <highlighttext>Java</highlighttext>/Spring. Знание принципов и..."
+    },
+    {
+        "id": "127725037",
+        "title": "Java-разработчик (Инвестиционный блок)",
+        "salary": "Не указана",
+        "link": "https://hh.ru/vacancy/127725037",
+        "requirements": "Опыт разработки и уверенное знание <highlighttext>Java</highlighttext> 8+. Опыт разработки и уверенное знание Spring Framework (Spring Core, Spring Boot, Spring..."
+    }
+]
